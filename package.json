@@ -1,0 +1,21 @@
+{
+  "name": "p2plearning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@types/node": "^20.6.3",
+    "hardhat": "^2.17.3",
+    "hardhat-deploy": "^0.11.37"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
